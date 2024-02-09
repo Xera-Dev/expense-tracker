@@ -13,13 +13,19 @@ def calculate_total_expenses():
     total = sum(amount for amount, _ in expenses)
     print(f"Total expenses: ${total}")
 
+def add_budget(budget):
+    expenses.append((budget))
+    print("Votre budget est défini à", budget)
+    
+    
 # Fonction pour exécuter le programme
 def main():
     while True:
         print("\n1. Add Expense")
         print("2. Display Expenses")
         print("3. Calculate Total Expenses")
-        print("4. Quit")
+        print("4. Add Budget")
+        print("5. Quit")
         
         choice = input("Enter your choice: ")
         
@@ -32,6 +38,9 @@ def main():
         elif choice == "3":
             calculate_total_expenses()
         elif choice == "4":
+            budget = float(input("Enter the budget:")
+            add_budget(budget)
+        elif choice == "5":
             print("Exiting...")
             break
         else:
