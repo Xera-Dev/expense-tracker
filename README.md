@@ -1,41 +1,41 @@
-# Suivi des Dépenses par Xera-Dev
+# Expense Tracking by Xera-Dev
 
-**Description:** Ce projet est un programme en Python conçu pour aider les utilisateurs à suivre leurs dépenses et à établir un budget personnel. Il offre une interface conviviale permettant aux utilisateurs d'ajouter des dépenses, d'afficher les dépenses enregistrées, de calculer le total des dépenses, et éventuellement de comparer les dépenses réelles à un budget mensuel.
+**Description:** This project is a Python program designed to help users track their expenses and establish a personal budget. It provides a user-friendly interface for users to add expenses, display saved expenses, calculate the total expenses, and optionally compare actual expenses to a monthly budget.
 
-# Fonctionnalités:
+# Features:
 
-**_Ajouter une dépense:_** Les utilisateurs peuvent saisir le montant et la catégorie d'une dépense pour l'ajouter à leur liste de dépenses.
-**_Afficher les dépenses:_** Affiche la liste des dépenses enregistrées jusqu'à présent, avec leur montant et leur catégorie.
-**_Calculer le total des dépenses:_** Calcule et affiche le montant total des dépenses enregistrées.
-**_Établir un budget:_** Permet aux utilisateurs de définir un budget mensuel et de comparer les dépenses réelles à ce budget.
-**_Système de salaire et facture:_** Permet aux utilisateurs de définir leur salaire et leurs factures pour créer des budgets
+**_Add Expense:_** Users can input the amount and category of an expense to add it to their expense list.
+**_Display Expenses:_** Displays the list of expenses saved so far, along with their amount and category.
+**_Calculate Total Expenses:_** Calculates and displays the total amount of expenses recorded.
+**_Establish a Budget:_** Allows users to set a monthly budget and compare actual expenses to that budget.
+**_Salary and Invoice System:_** Allows users to set their salary and invoices to create budgets.
 
-# Utilisation
+# Usage
 
-- Clonez le dépôt sur votre machine locale :
+- Clone the repository to your local machine:
   ```
-  git clone https://github.com/votre_utilisateur/expense-tracker.git
+  git clone https://github.com/your_username/expense-tracker.git
   ```
-- Naviguez dans le répertoire du projet :
+- Navigate to the project directory:
   ```
-  cd expense-tracke
+  cd expense-tracker
   ```
-- Lancez le programme en exécutant le fichier principal `main.py` :
+- Run the program by executing the main file `main.py`:
   ```
   python main.py
   ```
-- Suivez les instructions affichées dans le terminal pour ajouter des dépenses, afficher les dépenses enregistrées, ou calculer le total des dépenses.
+- Follow the instructions displayed in the terminal to add expenses, display saved expenses, or calculate the total expenses.
 
 # Contribution
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une Pull Request avec vos modifications ou des suggestions d'amélioration.
+Contributions are welcome! If you would like to contribute to this project, please submit a Pull Request with your modifications or improvement suggestions.
 
-# Infos
-**Avis de Xera-Dev:**
-"J'ai développé ce script dans le but de simplifier la gestion de ses dépences et économies. C'est un outil qui économise du temps tout en garantissant une organisation claire. N'hésitez pas à l'adopter et à me faire part de vos retours!"
+# Info
+**Xera-Dev's Note:**
+"I developed this script with the aim of simplifying expense and savings management. It's a tool that saves time while ensuring clear organization. Feel free to adopt it and share your feedback with me!"
 
 > [!IMPORTANT]
-> - Le script peut être étendu pour prendre en charge de nouvelles fonctionnalités.
-> - De nouvelles fonctionnalités arrivent vite !
+> - The script can be extended to support new features.
+> - New features are coming soon!
 
-```Auteur: Xera-Dev  |  Version: 1.0  |  Date de Création: 08/02/2024```
+```Author: Xera-Dev  |  Version: 1.0  |  Date Created: 08/02/2024```
