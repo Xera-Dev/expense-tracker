@@ -7,7 +7,8 @@
 **_Ajouter une dépense:_** Les utilisateurs peuvent saisir le montant et la catégorie d'une dépense pour l'ajouter à leur liste de dépenses.
 **_Afficher les dépenses:_** Affiche la liste des dépenses enregistrées jusqu'à présent, avec leur montant et leur catégorie.
 **_Calculer le total des dépenses:_** Calcule et affiche le montant total des dépenses enregistrées.
-**_(Possibilité future) Établir un budget:_** Permettra aux utilisateurs de définir un budget mensuel et de comparer les dépenses réelles à ce budget.
+**_Établir un budget:_** Permet aux utilisateurs de définir un budget mensuel et de comparer les dépenses réelles à ce budget.
+**_Système de salaire et facture:_** Permet aux utilisateurs de définir leur salaire et leurs factures pour créer des budgets
 
 # Utilisation
 
